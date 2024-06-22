@@ -8,8 +8,7 @@ The importance of this work lies in the fact that, despite the steady increase i
 - 'Code/':
 	- 'total_chain.py' and 'total_chain_new.py': are the same code, used for, starting from source images and groundtruth files, obtaining the segmentation 	masks, the patches and the csv files with the split for training and validation and the associated ground truth. The only difference between them are the parameters to be passed. 
 	- 'test_total_chain.py' and 'test_total_chain_new.py': are the same code, used for, specifying the architetcure and the weigths, test the classifiers. It is possible to test only the classification network or to perform also segmentation and elaboration on the images, depending on the used parameters. The only difference between them are the parameters to be passed.
-	- 'classification/': contains all the scripts that are necessary to train different developed configurations. 
-			  The most important are:
+	- 'classification/': contains all the scripts that are necessary to train different developed configurations. The most important are:
            - binaryClassifierReallyBinaryAllSblock.py (that for the model with resnet50 backbone, the best one);
            - binaryClassifierReallyBinaryAllSblockMobileNet (that for the model with mobileNetV2 backbone); 
            - binaryClassifierReallyBinaryAllSblockResNet101 (that for the model with resnet101 backbone)
