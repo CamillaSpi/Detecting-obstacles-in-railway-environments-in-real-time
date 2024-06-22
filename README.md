@@ -11,7 +11,7 @@ The importance of this work lies in the fact that, despite the steady increase i
 	- 'classification/': contains all the scripts that are necessary to train different developed configurations. The most important are:
    		- binaryClassifierReallyBinaryAllSblock.py (that for the model with resnet50 backbone, the best one);
        - binaryClassifierReallyBinaryAllSblockMobileNet (that for the model with mobileNetV2 backbone);
-	- binaryClassifierReallyBinaryAllSblockResNet101 (that for the model with resnet101 backbone)
+       - binaryClassifierReallyBinaryAllSblockResNet101 (that for the model with resnet101 backbone)
 	- 'elaboration/': contains all the scripts used for obtaining, given the segmentation mask, the patches to be classified.
 	- 'rail_marking/': contains all the necessary scripts and also the weights used for semantic segmentation of rail tracks.
 	- 'utils/': contains different scripts useful during analysis.
