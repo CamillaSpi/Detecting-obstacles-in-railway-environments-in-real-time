@@ -18,7 +18,11 @@ The importance of this work lies in the fact that, despite the steady increase i
 
  - 'Slides.pptx': the presentation slides of the project.
  - 'Thesis.pdf': the pdf of master thesis.
- - 'Demo': is a video demonstrating the operation of the system
+ - 'Demo.avi': is a video demonstrating how the system works.
+
+## How to run
+- Create the environment
+  	-run the command: '''conda env create -f environment.yml'''
 
 
 
