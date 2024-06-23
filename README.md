@@ -17,6 +17,7 @@ The importance of this work lies in the fact that, despite the steady increase i
 	- 'utils/': contains different scripts useful during analysis.
 
  - 'Slides.pptx': the presentation slides of the project.
+ - 'Thesis.pdf': the pdf of master thesis.
  - 'Demo': is a video demonstrating the operation of the system
 
 
