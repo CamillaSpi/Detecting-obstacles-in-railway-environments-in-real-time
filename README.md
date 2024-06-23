@@ -22,7 +22,7 @@ The importance of this work lies in the fact that, despite the steady increase i
 
 ## How to run
 - Create the environment
-  	-run the command: '''conda env create -f environment.yml'''
+  	-run the command: \```conda env create -f environment.yml\``` 
 
 
 
