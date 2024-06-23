@@ -16,7 +16,7 @@ The importance of this work lies in the fact that, despite the steady increase i
 	- 'rail_marking/': contains all the necessary scripts and also the weights used for semantic segmentation of rail tracks.
 	- 'utils/': contains different scripts useful during analysis.
 
- - 'Slides': are the presentation slides of the project.
+ - 'Slides.pptx': the presentation slides of the project.
  - 'Demo': is a video demonstrating the operation of the system
 
 
