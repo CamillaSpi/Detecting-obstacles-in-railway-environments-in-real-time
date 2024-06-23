@@ -22,11 +22,12 @@ The importance of this work lies in the fact that, despite the steady increase i
 
 ## How to run
 
-Create the environment executing:
+### To create the environment
+To create the environment execute:
 
-\```bash
+\```
 conda env create -f environment.yml
-\``` 
+\```
 
 
 
