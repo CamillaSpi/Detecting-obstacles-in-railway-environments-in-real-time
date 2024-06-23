@@ -24,9 +24,9 @@ The importance of this work lies in the fact that, despite the steady increase i
 
 ### To create the environment
 To create the environment execute:
-\'''bash 
+\bash 
 conda env create -f environment.yml
-\'''
+\
 
 
 
