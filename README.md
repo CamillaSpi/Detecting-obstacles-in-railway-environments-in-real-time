@@ -21,10 +21,12 @@ The importance of this work lies in the fact that, despite the steady increase i
  - 'Demo.avi': is a video demonstrating how the system works.
 
 ## How to run
-- Create the environment
-  	-run the command: \``` bash
-  conda env create -f environment.yml
-  \``` 
+
+Create the environment executing:
+
+\```bash
+conda env create -f environment.yml
+\``` 
 
 
 
