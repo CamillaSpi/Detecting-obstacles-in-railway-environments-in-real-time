@@ -1,7 +1,7 @@
 # Detecting obstacles in railway environments in real time
 
 ## Description
-This repository contains the code of my master thesis project, whose aim is the development of an Artificial Vision system for the detection, among all possible obstacles, of rocks, using a camera mounted on board a vehicle. Due to the absence of available data, it has been proceeded with the generation of a synthetic dataset using background images of railway environment. 
+This repository contains the code of my master thesis project, whose aim is the development of an Artificial Vision system for the detection, among all possible obstacles on railways, of rocks, using a camera mounted on board a vehicle. Due to the absence of available data, it has been proceeded with the generation of a synthetic dataset using background images of railway environment. 
 The importance of this work lies in the fact that, despite the steady increase in attention devoted to rail safety, obstacles such as rocks are often ignored, deven if, whether dislodged from natural formations (adverse weather conditions or geological instability) or intentionally placed by external forces, whether small pebbles or larger boulders, when encountered on the tracks, rocks could damage components located in the lower part of the vehicle, or more seriously, they could derail trains, causing catastrophic accidents, service disruptions, and potential derailments. Addressing these dangers is not merely a matter of operational efficiency or of the preservation of invaluable transport infrastructure, it is a matter of life and death.
 
 ## Repository Structure
