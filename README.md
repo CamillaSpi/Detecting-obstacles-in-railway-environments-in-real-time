@@ -53,3 +53,7 @@ If you want also to see these results in a visual manner, and in particular the 
     ```
     python show_test_results.py -csv_file_path [path to csv with classifier results] -segmented_images_path [path to segmented images] -resultant_image_path [path in which to save resultant images]
     ```
+
+
+## DEMO
+[Here](https://youtu.be/LiTLQLsqOeo) it is possible to see a demo video of the developed system and all the implemented features.
